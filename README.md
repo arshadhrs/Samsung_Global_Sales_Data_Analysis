@@ -13,11 +13,14 @@ End-to-end data analytics project on Samsung’s global product sales (2021–20
 
 
 
+
 <img width="895" height="502" alt="dashboard_2" src="https://github.com/user-attachments/assets/da9aa3e3-5419-42b7-84ae-0e8f6009eb10" />
 
 
 
+
 <img width="896" height="503" alt="dashboard_3" src="https://github.com/user-attachments/assets/906aa3f2-4798-452c-8300-c04b029e4ff6" />
+
 
 
 
@@ -32,6 +35,7 @@ This project analyzes Samsung’s global sales data to answer a core business qu
 The project covers the complete analytics workflow — from raw data processing to business insights and predictive modeling.
 
 📂 Dataset Information
+
 Property	Details
 Source	Kaggle – Samsung Global Product Sales
 Period	2021 – 2024
@@ -51,33 +55,63 @@ GitHub – Version Control & Portfolio
 
 
 📁 Project Structure
+
 samsung-sales-analytics/
+
 │
+
 ├── data/
+
 │   ├── samsung_global_sales_dataset.csv
+
 │   └── samsung_cleaned.csv
+
 │
+
 ├── python/
+
 │   ├── phase2_data_cleaning.py
+
 │   ├── phase3_eda.py
+
+
 │   └── phase6_ml.py
+
 │
+
 ├── sql/
+
 │   └── phase4_sql_queries.sql
+
 │
 ├── dashboard/
+
 │   ├── Samsung_Sales_Dashboard.pbix
+
 │   ├── powerbi_guide.md
+
 │   └── screenshots/
+
 │       ├── dashboard_page1.png
+
 │       ├── dashboard_page2.png
+
 │       └── dashboard_page3.png
+
 │
+
 ├── outputs/
+
 │   ├── eda_charts.png
+
 │   └── ml_results.png
+
 │
+
 └── README.md
+
+
+
 
 🔄 Project Workflow
 Phase 1 – Dataset Understanding
