@@ -205,8 +205,8 @@ Implemented a predictive model to identify product return patterns
 Arshad H R
 Student
 B.Com Business Analytics
-LinkedIn: www.linkedin.com/in/arshad-h-r-17234b369 
-GitHub: https://github.com/arshadhrs
+LinkedIn: [www.linkedin.com/in/arshad-h-r-17234b369] 
+GitHub: [https://github.com/arshadhrs]
 
 Skills: Python · SQL · Power BI · Machine Learning · Excel
 
