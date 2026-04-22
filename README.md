@@ -8,15 +8,11 @@ End-to-end data analytics project on Samsung’s global product sales (2021–20
 
 📊 Dashboard Preview
 
-
 <img width="893" height="501" alt="dashboard_1" src="https://github.com/user-attachments/assets/d14eb729-602f-48ac-9de0-c91ce56e4ce5" />
-
 
 <img width="895" height="502" alt="dashboard_2" src="https://github.com/user-attachments/assets/da9aa3e3-5419-42b7-84ae-0e8f6009eb10" />
 
-
 <img width="896" height="503" alt="dashboard_3" src="https://github.com/user-attachments/assets/906aa3f2-4798-452c-8300-c04b029e4ff6" />
-
 
 📌 Project Overview
 
@@ -193,7 +189,7 @@ Built an end-to-end data analytics project using Python, SQL, Power BI, and Mach
 Developed a 3-page interactive dashboard analyzing global sales, customer behavior, and product performance
 Implemented a predictive model to identify product return patterns
 
-👤 Author
+👤## Author
 
 Arshad H R
 
@@ -210,15 +206,13 @@ Skills: Python · SQL · Power BI · Machine Learning · Excel
 📄 License
 This project is for educational and portfolio purposes.
 
-📁 Dataset
-Samsung Global Product Sales Dataset Source: Data_Set_Size: 15,500 synthetic sales transactions
-
 ⚠️ Dataset not included due to size limitations
 
 Dataset sourced from Kaggle (https://www.kaggle.com/datasets/ashyou09/samsung-global-product-sales-dataset).
 
-🚀 Final Note
-This project demonstrates strong capabilities in data analysis, business intelligence, and predictive modeling, making it suitable for data analyst roles.
+## 🚀 Final Note  
+
+This project demonstrates strong capabilities in data analysis, business intelligence, and predictive modeling — aligned with real-world data analyst responsibilities.
 
  
 
